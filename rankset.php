@@ -22,9 +22,11 @@ array("num" => 2000, "image" => '', "text" => 'Doge Gamer'),
 array("num" => 2200, "image" => '', "text" => 'LEL Gamer'),
 array("num" => 2400, "image" => '', "text" => 'Unicorn Gamer'),
 array("num" => 2800, "image" => '', "text" => 'Cow Gamer'),
-array("num" => 2, "image" => '', "text" => ' '),
-
-
-
+array("num" => 3000, "image" => '', "text" => 'Pepe Gamer'),
+array("num" => 3200, "image" => '', "text" => 'Retro Gamer'),
+array("num" => 3400, "image" => '', "text" => 'Modern Gamer'),
+array("num" => 3600, "image" => '', "text" => 'Troll Gamer'),
+array("num" => 3800, "image" => '', "text" => 'LOL Gamer'),
+array("num" => 4000, "image" => '', "text" => '101 Gamer'),
 
 );
